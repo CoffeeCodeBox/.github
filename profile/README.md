@@ -20,16 +20,16 @@ Our mission is to build projects that are educational, functional, and technical
 
 ## 👥 Core Team
 
-### 🔹 Mohammad Reza Sadeghi – Fullstack Web Developer (JavaScript)
+### 🔹 Mohammad Reza Sadeghi – Fullstack Web Developer (JavaScript | Go)
 
-- Skilled in frontend design using **React.js**, **Tailwind CSS**, and **Vite**
+- Skilled in frontend design using **React.js**, **Bootstrap**, and **Vite**
 - Backend development with **Node.js**, **Express**, and **REST APIs**
 - Experienced with modern JS (ES6+), JWT Auth, MongoDB, and CI/CD workflows
 - Builds dashboards and control panels that interact with IoT hardware
 - Uses **Docker** and **GitHub Actions** for deployment and testing automation
 
 📌 Key Tools:  
-`JavaScript`, `React`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `Docker`, `Socket.IO`, `Git`, `CI/CD`
+`JavaScript`, `React`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `Go`, `PHP`, `C#`, `Docker`, `Socket.IO`, `Git`, `CI/CD`
 
 ---
 
@@ -62,8 +62,8 @@ Our mission is to build projects that are educational, functional, and technical
 
 | Category | Technologies |
 |---------|--------------|
-| Languages | `Python`, `JavaScript`, `C/C++`, `HTML/CSS`, `Bash` |
-| Frontend | `React`, `Tailwind`, `Vite`, `Axios`, `Socket.IO` |
+| Languages | `Python`, `JavaScript`, `C/C++`, `Go`, `PHP`, `Bash` |
+| Frontend | `React`, `Bootstrap`, `Vite`, `Axios`, `Socket.IO` |
 | Backend  | `Node.js`, `Express`, `MongoDB`, `REST API`, `JWT` |
 | Desktop  | `PyQt5`, `Tkinter`, `SQLite`, `XlsxWriter`, `Pandas` |
 | Embedded | `ESP32`, `ESP8266`, `Arduino`, `Raspberry Pi` |
@@ -75,11 +75,11 @@ Our mission is to build projects that are educational, functional, and technical
 
 ## 💡 What Makes CofeeCodeBox Unique?
 
-✅ Seamless combination of hardware, web, and software development  
-✅ Projects designed for both real use and learning purposes  
-✅ Use of clean architecture and modular code  
-✅ Strong documentation and onboarding for each project  
-✅ Synergy between software & hardware engineers for hybrid builds  
+✅ Seamless combination of hardware, web, and software development
+✅ Projects designed for both real use and learning purposes
+✅ Use of clean architecture and modular code
+✅ Strong documentation and onboarding for each project
+✅ Synergy between software & hardware engineers for hybrid builds
 
 ---
 
@@ -92,8 +92,8 @@ Whether you're:
 
 We welcome you to join, fork, contribute or collaborate on open-source hybrid technology.
 
-📬 Contact: `amir.nytrix@gmail.com` `devmrsad@gmail.com`   
-📜 License: MIT  
+📬 Contact: `amir.nytrix@gmail.com` `devmrsad@gmail.com`
+📜 License: MIT
 🌐 Website: Coming soon...
 
 ---
